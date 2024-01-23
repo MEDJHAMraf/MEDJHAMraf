@@ -1,10 +1,9 @@
 ### Hi there 👋
 medjham23>azure/windows/linux.#100>50>7773
-<!--
-**MEDJHAMraf/MEDJHAMraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--azure.inc/microsoft/google.com
+**MEDJHAMraf/MEDJHAMraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 Here are some ideas to get you started:
-
+**hello there:::azumiayamichico@medcan.com/medalofhonor/playthegame
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
